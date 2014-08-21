@@ -1,0 +1,374 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Helps International RSS Feed" href="http://www.helpsintl.org/feed">
+
+<link rel="stylesheet" href="HELPS%20app_files/style.css" type="text/css" media="screen">
+<link rel="pingback" href="http://www.helpsintl.org/xmlrpc.php">
+<link rel="shortcut icon" href="http://www.helpsintl.org/favicon.ico">
+
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.23 - http://yoast.com/wordpress/seo/ -->
+<title>Online Volunteer Application Form - Helps International</title>
+<meta name="robots" content="noodp,noydir">
+<link rel="canonical" href="http://www.helpsintl.org/get-involved/volunteer/online-volunteer-application-form/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Online Volunteer Application Form - Helps International">
+<meta property="og:description" content="HELPS Online Volunteer Application Form Mission Trips Calendar 2014">
+<meta property="og:url" content="http://www.helpsintl.org/get-involved/volunteer/online-volunteer-application-form/">
+<meta property="og:site_name" content="Helps International">
+<meta property="article:publisher" content="http://www.facebook.com/pages/HELPS-International/110626759851">
+<meta property="article:published_time" content="2013-08-08T11:12:14+00:00">
+<meta property="article:modified_time" content="2013-10-31T07:30:32+00:00">
+<meta property="og:image" content="http://www.helpsintl.org/wp-content/uploads/2013/08/logo_square300.jpg">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Helps International » Online Volunteer Application Form Comments Feed" href="http://www.helpsintl.org/get-involved/volunteer/online-volunteer-application-form/feed/">
+<link rel="stylesheet" id="flickr-gallery-css" href="HELPS%20app_files/flickr-gallery.css" type="text/css" media="all">
+<link rel="stylesheet" id="fg-jquery-ui-css" href="HELPS%20app_files/jquery-ui-1.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-flightbox-css" href="HELPS%20app_files/jquery.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_reset_css-css" href="HELPS%20app_files/formreset.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_datepicker_css-css" href="HELPS%20app_files/datepicker.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_formsmain_css-css" href="HELPS%20app_files/formsmain.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_ready_class_css-css" href="HELPS%20app_files/readyclass.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_browsers_css-css" href="HELPS%20app_files/browsers.css" type="text/css" media="all">
+<link rel="stylesheet" id="lightboxStyle-css" href="HELPS%20app_files/colorbox.css" type="text/css" media="screen">
+<script src="HELPS%20app_files/ga_002.js" async="" type="text/javascript"></script><script src="HELPS%20app_files/ga.js" async="" type="text/javascript"></script><script type="text/javascript" src="HELPS%20app_files/jquery_008.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/jquery-migrate.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/jquery_004.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/conditional_logic.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/jquery_002.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/jquery_005.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/gravityforms.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/external-tracking.js"></script>
+<meta name="generator" content="WordPress 3.8">
+			<script type="text/javascript">
+				var get_sizes = null;
+									(function($){
+						get_sizes = function(id){
+							var sizes;
+							$.ajax({
+								async: false,
+								data: {
+									action: "flickr-gallery-sizes",
+									id: id
+								},
+								dataType: "json",
+								type: "POST",
+								url: "http://www.helpsintl.org/",
+								success: function(rsp) {
+									sizes = rsp;
+								}
+							});
+							return sizes;
+						};
+					})(jQuery);
+							</script>
+		<!-- Google Analytics Tracking by Google Analyticator 6.4.7.3: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+                var analyticsFileTypes = ['pdf','mp3','doc','docx','jpg','gif','png'];
+                            var analyticsSnippet = 'enabled';
+                var analyticsEventTracking = 'enabled';
+            </script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-18316265-51']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<!-- PNG FIX for IE6 -->
+<!--[if lte IE 6]>
+    <script type="text/javascript" src="http://www.helpsintl.org/wp-content/themes/HELPSINTL/js/pngfix/supersleight-min.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+
+	jQuery.fn.cleardefault = function() {
+	return this.focus(function() {
+		if( this.value == this.defaultValue ) {
+			this.value = "";
+		}
+	}).blur(function() {
+		if( !this.value.length ) {
+			this.value = this.defaultValue;
+		}
+	});
+};
+jQuery(".clearit input, .clearit textarea").cleardefault();
+
+});
+
+</script>
+</head>
+<body>
+<div id="outer">
+
+<div id="header">
+    <a class="sitename" href="http://www.helpsintl.org/">Helps International</a>    
+    
+    <div id="headerwidget">
+    <div class="menu"><ul><li class="page_item page-item-10 page_item_has_children"><a href="http://www.helpsintl.org/about-us/">About Us</a><ul class="children"><li class="page_item page-item-40"><a href="http://www.helpsintl.org/about-us/contact/">Contact Us</a></li><li class="page_item page-item-1997"><a href="http://www.helpsintl.org/about-us/a-word-from-our-president/">A Word From Our President</a></li><li class="page_item page-item-3021"><a href="http://www.helpsintl.org/about-us/staff/">Staff</a></li><li class="page_item page-item-2502"><a href="http://www.helpsintl.org/about-us/our-history/">Mission and History</a></li><li class="page_item page-item-2348"><a href="http://www.helpsintl.org/about-us/where-we-work/">Where We Work</a></li><li class="page_item page-item-2360"><a href="http://www.helpsintl.org/about-us/awardsrecognition/">Awards/Recognition</a></li></ul></li><li class="page_item page-item-3989"><a href="http://www.helpsintl.org/additional-ways-give/">Additional Ways to Give</a></li><li class="page_item page-item-30"><a href="http://www.helpsintl.org/events/">Events</a></li><li class="page_item page-item-20 page_item_has_children current_page_ancestor"><a href="http://www.helpsintl.org/get-involved/">Get Involved</a><ul class="children"><li class="page_item page-item-434 page_item_has_children"><a href="http://www.helpsintl.org/get-involved/partner/">Partner</a><ul class="children"><li class="page_item page-item-1089"><a href="http://www.helpsintl.org/get-involved/partner/karen-larrave-of-northwestern-mutuals-story/">Karin Larrave’s Story – Northwestern Mutual</a></li></ul></li><li class="page_item page-item-1358 page_item_has_children current_page_ancestor current_page_parent"><a href="http://www.helpsintl.org/get-involved/volunteer/">Volunteer</a><ul class="children"><li class="page_item page-item-3861"><a href="http://www.helpsintl.org/get-involved/volunteer/3861-2/">General Packing List for Mission Teams</a></li><li class="page_item page-item-3857"><a href="http://www.helpsintl.org/get-involved/volunteer/community-development-mission-team-works/">How A Community Development Mission Team Works</a></li><li class="page_item page-item-3850"><a href="http://www.helpsintl.org/get-involved/volunteer/medical-mission-teams-work/">How Medical Mission Teams Work</a></li><li class="page_item page-item-3275 current_page_item"><a href="http://www.helpsintl.org/get-involved/volunteer/online-volunteer-application-form/">Online Volunteer Application Form</a></li><li class="page_item page-item-4108"><a href="http://www.helpsintl.org/get-involved/volunteer/4108-2/">Women Helping Women</a></li></ul></li><li class="page_item page-item-338"><a href="http://www.helpsintl.org/get-involved/donate/">Donate</a></li></ul></li><li class="page_item page-item-2"><a href="http://www.helpsintl.org/">Home</a></li><li class="page_item page-item-1008"><a href="http://www.helpsintl.org/how-to-help/">How to HELP</a></li><li class="page_item page-item-359 page_item_has_children"><a href="http://www.helpsintl.org/news-and-media/">News/Media</a><ul class="children"><li class="page_item page-item-1984"><a href="http://www.helpsintl.org/news-and-media/photos/">Photos</a></li><li class="page_item page-item-1624"><a href="http://www.helpsintl.org/news-and-media/stories/">Stories</a></li><li class="page_item page-item-1621"><a href="http://www.helpsintl.org/news-and-media/videos/">Videos</a></li></ul></li><li class="page_item page-item-3310"><a href="http://www.helpsintl.org/oops/">Oops!</a></li><li class="page_item page-item-15 page_item_has_children"><a href="http://www.helpsintl.org/programs/">Programs</a><ul class="children"><li class="page_item page-item-191 page_item_has_children"><a href="http://www.helpsintl.org/programs/onil-products/">ONIL Products</a><ul class="children"><li class="page_item page-item-2861"><a href="http://www.helpsintl.org/programs/onil-products/2861-2/">Awards</a></li><li class="page_item page-item-1652 page_item_has_children"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/">ONIL Product Selection</a><ul class="children"><li class="page_item page-item-517"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-institutional-stove/">Institutional Stove</a></li><li class="page_item page-item-569"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-nixtamal-stove/">Nixtamal Stove</a></li><li class="page_item page-item-384 page_item_has_children"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-griddle-stove/">Plancha Stove</a><ul class="children"><li class="page_item page-item-2905"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-griddle-stove/how-it-works/">How It Works</a></li></ul></li><li class="page_item page-item-592"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-retained-heat-cooker-rhc/">Retained Heat Cooker (RHC)</a></li><li class="page_item page-item-579"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-solar-desk-lamp/">Solar Desk Lamp and Water Resistant Solar Flashlight</a></li><li class="page_item page-item-558"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-water-filte/">Water Filter</a></li></ul></li><li class="page_item page-item-2860"><a href="http://www.helpsintl.org/programs/onil-products/awards/">Awards</a></li><li class="page_item page-item-2912"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-videos/">ONIL Product Videos</a></li></ul></li><li class="page_item page-item-2075 page_item_has_children"><a href="http://www.helpsintl.org/programs/education/">Education</a><ul class="children"><li class="page_item page-item-2087"><a href="http://www.helpsintl.org/programs/education/pep-partners-in-education-program/">PEP – Partners in Education Program</a></li></ul></li><li class="page_item page-item-197 page_item_has_children"><a href="http://www.helpsintl.org/programs/economic-development/">Economic Development</a><ul class="children"><li class="page_item page-item-851"><a href="http://www.helpsintl.org/programs/economic-development/economic-development-program-information/">Economic Development – Program Information</a></li><li class="page_item page-item-931"><a href="http://www.helpsintl.org/programs/economic-development/economic-development-santiago-choc/">Economic Development – Santiago Choc</a></li><li class="page_item page-item-918"><a href="http://www.helpsintl.org/programs/economic-development/economic-development-tomas-caal/">Economic Development – Tomás Caal</a></li></ul></li><li class="page_item page-item-48 page_item_has_children"><a href="http://www.helpsintl.org/programs/healthcare/">Healthcare</a><ul class="children"><li class="page_item page-item-2104"><a href="http://www.helpsintl.org/programs/healthcare/comadrona-project/">Comadrona Project</a></li><li class="page_item page-item-1025"><a href="http://www.helpsintl.org/programs/healthcare/overview/">HELPS Medical Teams</a></li></ul></li></ul></li><li class="page_item page-item-2179"><a href="http://www.helpsintl.org/staff-leadership/">Board of Directors</a></li></ul></div>
+    <a href="http://www.helpsintl.org/about-us/contact" class="headerbutton">Contact Us</a> <a href="http://www.helpsintl.org/get-involved/donate/" class="headerbutton orange">Donate Online</a> <a href="http://www.helpsintl.org/get-involved" class="headerbutton blue">Get Involved</a> 
+    </div>
+
+</div>
+
+<div id="pagemenu">
+ <ul id="menu-primary-menu" class="menu"><li id="menu-item-2498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2498"><a href="http://www.helpsintl.org/">Home</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14"><a href="http://www.helpsintl.org/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-3152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3152"><a href="http://www.helpsintl.org/about-us/">Overview</a></li>
+	<li id="menu-item-2399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2399"><a href="http://www.helpsintl.org/about-us/a-word-from-our-president/">A Word From Our President</a></li>
+	<li id="menu-item-2512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2512"><a href="http://www.helpsintl.org/about-us/our-history/">Mission and History</a></li>
+	<li id="menu-item-2400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2400"><a href="http://www.helpsintl.org/staff-leadership/">Board of Directors</a></li>
+	<li id="menu-item-3025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3025"><a href="http://www.helpsintl.org/about-us/staff/">Staff</a></li>
+	<li id="menu-item-2501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2501"><a href="http://www.helpsintl.org/about-us/where-we-work/">Where We Work</a></li>
+	<li id="menu-item-3727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3727"><a href="http://www.helpsintl.org/about-us/contact/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19"><a href="http://www.helpsintl.org/programs/">Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-3150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3150"><a href="http://www.helpsintl.org/programs/">Overview</a></li>
+	<li id="menu-item-2666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2666"><a href="http://www.helpsintl.org/programs/education/">Education</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3340"><a href="http://www.helpsintl.org/programs/education/pep-partners-in-education-program/">PEP – Partners in Education Program</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2378"><a href="http://www.helpsintl.org/programs/economic-development/">Economic Development</a></li>
+	<li id="menu-item-2380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2380"><a href="http://www.helpsintl.org/programs/healthcare/">Healthcare</a></li>
+	<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3651"><a href="http://www.helpsintl.org/programs/onil-products/">ONIL Products</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4118"><a href="http://www.helpsintl.org/get-involved/volunteer/4108-2/">Women Helping Women</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-24"><a href="http://www.helpsintl.org/get-involved/">Get Involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-2408" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-2408"><a href="http://www.helpsintl.org/get-involved/">Ways to Get Involved</a></li>
+	<li id="menu-item-3081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3081"><a href="http://www.helpsintl.org/get-involved/donate/">Donate</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4027"><a href="http://www.helpsintl.org/additional-ways-give/">Additional Ways to Give</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2391" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-2391"><a href="http://www.helpsintl.org/get-involved/volunteer/">Volunteer</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4145" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-4145"><a href="http://www.helpsintl.org/get-involved/volunteer/">Volunteer Information</a></li>
+		<li id="menu-item-4119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4119"><a href="http://www.helpsintl.org/get-involved/volunteer/4108-2/">Join Women Helping Women</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3048"><a href="http://www.helpsintl.org/get-involved/partner/">Partner</a></li>
+</ul>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34"><a href="http://www.helpsintl.org/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-2409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2409"><a href="http://www.helpsintl.org/events/">HELPS Events</a></li>
+</ul>
+</li>
+<li id="menu-item-3446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3446"><a href="http://www.helpsintl.org/programs/onil-products/">ONIL Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-3629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3629"><a href="http://www.helpsintl.org/programs/onil-products/">ONIL Overview</a></li>
+	<li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2887"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/">ONIL Product Selection</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2884"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-griddle-stove/">Plancha Stove</a>
+		<ul class="sub-menu">
+			<li id="menu-item-2924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2924"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-griddle-stove/how-it-works/">How It Works</a></li>
+		</ul>
+</li>
+		<li id="menu-item-2893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2893"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-water-filte/">Water Filter</a></li>
+		<li id="menu-item-2886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2886"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-nixtamal-stove/">Nixtamal Stove</a></li>
+		<li id="menu-item-2885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2885"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-institutional-stove/">Institutional Stove</a></li>
+		<li id="menu-item-2891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2891"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-retained-heat-cooker-rhc/">Retained Heat Cooker</a></li>
+		<li id="menu-item-2892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2892"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-selection/onil-solar-desk-lamp/">Solar Desk Lamp and Water Resistant Solar Flashlight</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2883"><a href="http://www.helpsintl.org/programs/onil-products/awards/">Awards</a></li>
+	<li id="menu-item-2923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2923"><a href="http://www.helpsintl.org/programs/onil-products/onil-product-videos/">ONIL Product Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1284" class="last menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1284"><a href="http://www.helpsintl.org/news-and-media/">News/Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-2418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2418"><a href="http://www.helpsintl.org/news-and-media/">News and Media Overview</a></li>
+	<li id="menu-item-2419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2419"><a href="http://www.helpsintl.org/news-and-media/photos/">Photos</a></li>
+	<li id="menu-item-2420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2420"><a href="http://www.helpsintl.org/news-and-media/stories/">Stories</a></li>
+	<li id="menu-item-2421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2421"><a href="http://www.helpsintl.org/news-and-media/videos/">Videos</a></li>
+</ul>
+</li>
+</ul><form id="searchform" method="get" action="http://www.helpsintl.org/"><input value="Type, enter to search" onfocus="if (this.value == 'Type, enter to search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Type, enter to search';}" size="18" maxlength="50" name="s" id="s" type="text"></form> 
+</div>
+    
+<div id="page"><div id="pagewrap">
+<div id="widesubnav">
+<ul>
+<li><strong>In this Section:</strong></li><li class="page_item page-item-3861"><a href="http://www.helpsintl.org/get-involved/volunteer/3861-2/">General Packing List for Mission Teams</a></li>
+<li class="page_item page-item-3857"><a href="http://www.helpsintl.org/get-involved/volunteer/community-development-mission-team-works/">How A Community Development Mission Team Works</a></li>
+<li class="page_item page-item-3850"><a href="http://www.helpsintl.org/get-involved/volunteer/medical-mission-teams-work/">How Medical Mission Teams Work</a></li>
+<li class="page_item page-item-3275 current_page_item"><a href="http://www.helpsintl.org/get-involved/volunteer/online-volunteer-application-form/">Online Volunteer Application Form</a></li>
+<li class="page_item page-item-4108"><a href="http://www.helpsintl.org/get-involved/volunteer/4108-2/">Women Helping Women</a></li>
+</ul>
+</div>
+
+<div id="main" class="narrow">
+
+		
+				<div class="entry">
+					<h2>HELPS Online Volunteer Application Form</h2>
+<p><a href="http://www.helpsintl.org/wp-content/uploads/2011/01/Mission-trips-Calendar-2014.pdf">Mission Trips Calendar 2014</a></p>
+
+                <div class="gf_browser_gecko gform_wrapper" id="gform_wrapper_3" style=""><form method="post" enctype="multipart/form-data" id="gform_3" action="/get-involved/volunteer/online-volunteer-application-form/">
+                        <div class="gform_body">
+                            <ul id="gform_fields_3" class="gform_fields top_label description_below"><li id="field_3_42" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_42">Team Name and/or Number:<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_42" id="input_3_42" value="1709" class="small" tabindex="1" type="text"></div><div class="gfield_description">If
+ you are new to HELPS or do not know your preferred team's name / 
+number, please click on the calendar link above for a complete list of 
+upcoming teams.</div></li><li id="field_3_48" class="gfield"><label class="gfield_label" for="input_3_48">Title</label><div class="ginput_container"><select name="input_48" id="input_3_48" class="small gfield_select" tabindex="2"><option value="Please Select">Please Select</option><option value="Dr.">Dr.</option><option value="Mr.">Mr.</option><option selected="selected" value="Mrs.">Mrs.</option><option value="Ms.">Ms.</option><option value="Rev.">Rev.</option></select></div></li><li id="field_3_41" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_41_3">Name:<span class="gfield_required">*</span></label><div class="ginput_complex ginput_container" id="input_3_41"><span id="input_3_41_3_container" class="ginput_left"><input name="input_41.3" id="input_3_41_3" value="Debra" tabindex="3" type="text"><label for="input_3_41_3">First</label></span><span id="input_3_41_6_container" class="ginput_right"><input name="input_41.6" id="input_3_41_6" value="Love" tabindex="4" type="text"><label for="input_3_41_6">Last</label></span><div class="gf_clear gf_clear_complex"></div></div></li><li id="field_3_5" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_5_1">Address:<span class="gfield_required">*</span></label><div class="ginput_complex ginput_container" id="input_3_5"><span class="ginput_full" id="input_3_5_1_container"><input name="input_5.1" id="input_3_5_1" value="1639 Thrush Court Circle" tabindex="5" type="text"><label for="input_3_5_1" id="input_3_5_1_label">Street Address</label></span><span class="ginput_left" id="input_3_5_3_container"><input name="input_5.3" id="input_3_5_3" value="San Antonio" tabindex="6" type="text"><label for="input_3_5_3" id="input_3_5.3_label">City</label></span><span class="ginput_right" id="input_3_5_4_container"><select name="input_5.4" id="input_3_5_4" tabindex="7"><option value=""></option><option value="Alabama">Alabama</option><option value="Alaska">Alaska</option><option value="Arizona">Arizona</option><option value="Arkansas">Arkansas</option><option value="California">California</option><option value="Colorado">Colorado</option><option value="Connecticut">Connecticut</option><option value="Delaware">Delaware</option><option value="District of Columbia">District of Columbia</option><option value="Florida">Florida</option><option value="Georgia">Georgia</option><option value="Hawaii">Hawaii</option><option value="Idaho">Idaho</option><option value="Illinois">Illinois</option><option value="Indiana">Indiana</option><option value="Iowa">Iowa</option><option value="Kansas">Kansas</option><option value="Kentucky">Kentucky</option><option value="Louisiana">Louisiana</option><option value="Maine">Maine</option><option value="Maryland">Maryland</option><option value="Massachusetts">Massachusetts</option><option value="Michigan">Michigan</option><option value="Minnesota">Minnesota</option><option value="Mississippi">Mississippi</option><option value="Missouri">Missouri</option><option value="Montana">Montana</option><option value="Nebraska">Nebraska</option><option value="Nevada">Nevada</option><option value="New Hampshire">New Hampshire</option><option value="New Jersey">New Jersey</option><option value="New Mexico">New Mexico</option><option value="New York">New York</option><option value="North Carolina">North Carolina</option><option value="North Dakota">North Dakota</option><option value="Ohio">Ohio</option><option value="Oklahoma">Oklahoma</option><option value="Oregon">Oregon</option><option value="Pennsylvania">Pennsylvania</option><option value="Rhode Island">Rhode Island</option><option value="South Carolina">South Carolina</option><option value="South Dakota">South Dakota</option><option value="Tennessee">Tennessee</option><option selected="selected" value="Texas">Texas</option><option value="Utah">Utah</option><option value="Vermont">Vermont</option><option value="Virginia">Virginia</option><option value="Washington">Washington</option><option value="West Virginia">West Virginia</option><option value="Wisconsin">Wisconsin</option><option value="Wyoming">Wyoming</option><option value="Armed Forces Americas">Armed Forces Americas</option><option value="Armed Forces Europe">Armed Forces Europe</option><option value="Armed Forces Pacific">Armed Forces Pacific</option></select><label for="input_3_5_4" id="input_3_5_4_label">State</label></span><span class="ginput_left" id="input_3_5_5_container"><input name="input_5.5" id="input_3_5_5" value="78248" tabindex="9" type="text"><label for="input_3_5_5" id="input_3_5_5_label">ZIP Code</label></span><input class="gform_hidden" name="input_5.6" id="input_3_5_6" value="United States" type="hidden"><div class="gf_clear gf_clear_complex"></div></div></li><li id="field_3_16" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_16">Departure City (1st and 2nd choices):<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_16" id="input_3_16" value="San Antonio, Tx" class="medium" tabindex="10" type="text"></div></li><li id="field_3_7" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_7">Home Phone:<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_7" id="input_3_7" value="210-764-0944" class="medium" tabindex="11" type="text"></div></li><li id="field_3_15" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_15">Cell Phone:<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_15" id="input_3_15" value="210-325-5479" class="medium" tabindex="12" type="text"></div></li><li id="field_3_14" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_14">Email Address:<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_14" id="input_3_14" value="dlove@strac.org" class="medium" tabindex="13" type="text"></div></li><li id="field_3_12" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_12">Emergency Contact (name, phone number, relationship):<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_12" id="input_3_12" value="Preston Love, 210-378-9611, Husband" class="medium" tabindex="14" type="text"></div><div class="gfield_description">Please
+ enter the NAME, PHONE NUMBER and RELATIONSHIP of someone NOT TRAVELING 
+WITH YOU that we may contact in case of an emergency. A valid phone 
+number is required.</div></li><li id="field_3_10" class="gfield"><label class="gfield_label" for="input_3_10">Passport Number:</label><div class="ginput_container"><input name="input_10" id="input_3_10" value="437901212" class="medium" tabindex="15" type="text"></div></li><li id="field_3_9" class="gfield"><label class="gfield_label" for="input_3_9">Name as listed on Passport:</label><div class="ginput_container"><input name="input_9" id="input_3_9" value="Debra Sue Love" class="medium" tabindex="16" type="text"></div></li><li id="field_3_20" class="gfield"><label class="gfield_label" for="input_3_20">Country of Issuance:</label><div class="ginput_container"><input name="input_20" id="input_3_20" value="USA" class="medium" tabindex="17" type="text"></div></li><li id="field_3_17" class="gfield"><label class="gfield_label" for="input_3_17">Passport Expiration Date:</label><div class="ginput_container"><input name="input_17" id="input_3_17" value="01/02/2018" class="datepicker medium mdy datepicker_with_icon hasDatepicker" tabindex="18" type="text"><img title="..." alt="..." src="HELPS%20app_files/calendar.png" class="ui-datepicker-trigger"> </div><input id="gforms_calendar_icon_input_3_17" class="gform_hidden" value="http://www.helpsintl.org/wp-content/plugins/gravityforms/images/calendar.png" type="hidden"><div class="gfield_description">If you must submit a copy of your passport at a later time, please email it to: info@helpsintl.org.</div></li><li id="field_3_45" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_45">Date of Birth:<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_45" id="input_3_45" value="06/07/1958" class="medium" tabindex="19" type="text"></div><div class="gfield_description">(MM/DD/YYYY)</div></li><li id="field_3_49" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_49">Gender<span class="gfield_required">*</span></label><div class="ginput_container"><select name="input_49" id="input_3_49" class="medium gfield_select" tabindex="20"><option value="Please Select">Please Select</option><option value="Male">Male</option><option selected="selected" value="Female">Female</option></select></div></li><li id="field_3_46" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_46">Spouse's Name:<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_46" id="input_3_46" value="Preston Love" class="medium" tabindex="21" type="text"></div><div class="gfield_description">If you are married, please enter the name of your spouse here. If not, please enter "N/A".</div></li><li id="field_3_18" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_18">Your Present Occupation:<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_18" id="input_3_18" value="retired" class="medium" tabindex="22" type="text"></div></li><li id="field_3_47" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_47">Name of Employer:<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_47" id="input_3_47" value="n/a" class="medium" tabindex="23" type="text"></div><div class="gfield_description">Enter the name of your employer. If not applicable please enter "N/A".</div></li><li id="field_3_19" class="gfield"><label class="gfield_label" for="input_3_19">Specialties / Certifications:</label><div class="ginput_container"><input name="input_19" id="input_3_19" class="medium" tabindex="24" type="text"></div></li><li id="field_3_21" class="gfield               gfield_contains_required"><label class="gfield_label">Spanish?<span class="gfield_required">*</span></label><div class="ginput_container"><ul class="gfield_radio" id="input_3_21"><li class="gchoice_21_0"><input name="input_21" value="Yes" id="choice_21_0" tabindex="25" type="radio"><label for="choice_21_0">Yes</label></li><li class="gchoice_21_1"><input checked="checked" name="input_21" value="No" id="choice_21_1" tabindex="26" type="radio"><label for="choice_21_1">No</label></li><li class="gchoice_21_2"><input name="input_21" value="Some Conversational" id="choice_21_2" tabindex="27" type="radio"><label for="choice_21_2">Some Conversational</label></li></ul></div></li><li id="field_3_23" class="gfield"><label class="gfield_label" for="input_3_23">Blood Type:</label><div class="ginput_container"><input name="input_23" id="input_3_23" value="O+" class="medium" tabindex="28" type="text"></div><div class="gfield_description">Please enter your blood type. If you do not know it, please enter "UNK".</div></li><li id="field_3_24" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_24">Special Diet:<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_24" id="input_3_24" value="None" class="medium" tabindex="29" type="text"></div><div class="gfield_description">Please enter your special diet, if any. If not please enter "None".</div></li><li id="field_3_25" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_25">Health Problems / Current Medications<span class="gfield_required">*</span></label><div class="ginput_container"><input value="Estrace, Synthroid, Celebrex, Crestor, Altace, Glucosamine, Claritin, MVI, CoQ 10, ASA, Benadryl, Protonix" name="input_25" id="input_3_25" class="large" tabindex="30" type="text"></div><div class="gfield_description">Please be specific. List all current conditions, ailments and medications that you are currently taking.</div></li><li id="field_3_26" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_26">Do you have a criminal record? If yes, please explain. If no, please type N/A:<span class="gfield_required">*</span></label><div class="ginput_container"><textarea name="input_26" id="input_3_26" class="textarea small" tabindex="31" rows="10" cols="50">n/a</textarea></div></li><li id="field_3_28" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_28">Prior international volunteer work? If yes, what countries?<span class="gfield_required">*</span></label><div class="ginput_container"><textarea name="input_28" id="input_3_28" class="textarea small" tabindex="32" rows="10" cols="50">Yes.  Helps International San Antonio trip July 2013, Guatemala.  I was a circulating OR nurse.  I would like to do that again.</textarea></div><div class="gfield_description">If not applicable, please enter "N/A".</div></li><li id="field_3_29" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_29">Do you plan on raising funds to help defray your expenses, or do you intend to pay them yourself?<span class="gfield_required">*</span></label><div class="ginput_container"><textarea name="input_29" id="input_3_29" class="textarea small" tabindex="33" rows="10" cols="50">Pay them myself</textarea></div></li><li id="field_3_30" class="gfield               gfield_contains_required"><label class="gfield_label">Are
+ you prepared to travel distances which would cause a lapse in contact 
+with family and/or business where you cannot be reached for up to 2-3 
+days? <span class="gfield_required">*</span></label><div class="ginput_container"><ul class="gfield_radio" id="input_3_30"><li class="gchoice_30_0"><input checked="checked" name="input_30" value="Yes" id="choice_30_0" tabindex="34" type="radio"><label for="choice_30_0">Yes</label></li><li class="gchoice_30_1"><input name="input_30" value="No" id="choice_30_1" tabindex="35" type="radio"><label for="choice_30_1">No</label></li></ul></div></li><li id="field_3_31" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_31">How were you referred to HELPS?<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_31" id="input_3_31" value="Dave Meade, pharmacist for the trip" class="large" tabindex="36" type="text"></div></li><li id="field_3_32" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_32">Why do you want to go on this trip?<span class="gfield_required">*</span></label><div class="ginput_container"><textarea name="input_32" id="input_3_32" class="textarea small" tabindex="37" rows="10" cols="50">I want to be part of the team that provides healthcare to people who would never receive it otherwise.  </textarea></div><div class="gfield_description">Please be as brief and/or specific as possible.</div></li><li id="field_3_33" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_33">List three recent jobs held and specific skills applicable to this volunteer mission:<span class="gfield_required">*</span></label><div class="ginput_container"><textarea name="input_33" id="input_3_33" class="textarea small" tabindex="38" rows="10" cols="50">Nurse
+ liaison for a private MD's office facilitating the transition from in 
+network to out of network insurance coverage--required patience, 
+organization and creativity.
+Risk Manager, Methodist system--diligence, objectivity, attention to 
+details, communication skills.
+ICU RN--ability to think ahead, assess the situation, intervene/act in a
+ timely manner, organization skills</textarea></div><div class="gfield_description">If not applicable, please enter "N/A".</div></li><li id="field_3_34" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_34">How many previous medical and/or construction trips have you participated in with HELPS?<span class="gfield_required">*</span></label><div class="ginput_container"><textarea name="input_34" id="input_3_34" class="textarea small" tabindex="39" rows="10" cols="50">one</textarea></div></li><li id="field_3_35" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_35">List countries, responsibilities, and length of stay of any other missions you have participated in:<span class="gfield_required">*</span></label><div class="ginput_container"><textarea name="input_35" id="input_3_35" class="textarea small" tabindex="40" rows="10" cols="50">n/a</textarea></div><div class="gfield_description">If not applicable, please enter "N/A".</div></li><li id="field_3_36" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_36">Each
+ volunteer is expected to work under the authority of the team leader(s)
+ and function as a member of a team that will need to adapt to 
+unexpected circumstances. If possible, please give examples of your 
+ability to do this:<span class="gfield_required">*</span></label><div class="ginput_container"><textarea name="input_36" id="input_3_36" class="textarea small" tabindex="41" rows="10" cols="50">I
+ know that I am a small part of the big picture.  I just want to do my 
+part so that the big picture can be completed as smoothly as possible.  
+I've been the manager/boss before and I understand the value of having 
+responsible team members.</textarea></div><div class="gfield_description">If not applicable, please enter "N/A"</div></li><li id="field_3_37" class="gfield               gfield_contains_required"><label class="gfield_label" for="input_3_37">Please
+ provide a personal reference of one individual who would attest to 
+information requested in questions 1-5 (name, address, phone number, 
+email address):<span class="gfield_required">*</span></label><div class="ginput_container"><input name="input_37" id="input_3_37" value="Lynne VandeWalle, 8635 Cheviot Heights, San Antonio, Texas 78254, 210-279-0240 cell, Jackie.VandeWalle@MHShealth.com" class="large" tabindex="42" type="text"></div></li><li id="field_3_38" class="gfield"><label class="gfield_label" for="input_3_38">Please upload a photocopy of valid passport and State Issued ID:</label><div class="ginput_container"><input name="MAX_FILE_SIZE" value="16777216" type="hidden"><input name="input_38" id="input_3_38" value="" size="20" class="medium" tabindex="43" type="file"></div><div class="gfield_description">IMPORTANT:
+ If you are unable to submit documents at this time, please EMAIL them 
+separately at: info@helpsintl.org. Please include your team's number in 
+the email.</div></li><li id="field_3_44" class="gfield"><label class="gfield_label" for="input_3_44">Please upload copies of your medical documentation, as applicable:</label><div class="ginput_container"><input name="MAX_FILE_SIZE" value="16777216" type="hidden"><input name="input_44" id="input_3_44" value="" size="20" class="medium" tabindex="44" type="file"></div><div class="gfield_description">Medical
+ volunteers, please attach a copy of credentials (licenses, 
+certifications, etc.) Physicians, please attach the following: valid 
+practicing license, medical diploma, Curriculum Vitae and proof of 
+medical residence (if applicable).
+
+IMPORTANT: If you are unable to submit documents at this time, please 
+EMAIL them separately at: info@helpsintl.org. Please include your team's
+ number in the email.</div></li><li id="field_3_50" class="gfield"><label class="gfield_label" for="input_3_50">Upload Additional File(s) Here:</label><div class="ginput_container"><input name="MAX_FILE_SIZE" value="16777216" type="hidden"><input name="input_50" id="input_3_50" value="" size="20" class="medium" tabindex="45" type="file"></div></li><li id="field_3_52" class="gfield"><label class="gfield_label" for="input_3_52">Upload Additional File(s) Here:</label><div class="ginput_container"><input name="MAX_FILE_SIZE" value="16777216" type="hidden"><input name="input_52" id="input_3_52" value="" size="20" class="medium" tabindex="46" type="file"></div></li><li id="field_3_51" class="gfield"><label class="gfield_label" for="input_3_51">Upload Additional File(s) Here:</label><div class="ginput_container"><input name="MAX_FILE_SIZE" value="16777216" type="hidden"><input name="input_51" id="input_3_51" value="" size="20" class="medium" tabindex="47" type="file"></div></li><li id="field_3_53" class="gfield"><label class="gfield_label" for="input_3_53">Upload Additional File(s) Here:</label><div class="ginput_container"><input name="MAX_FILE_SIZE" value="16777216" type="hidden"><input name="input_53" id="input_3_53" value="" size="20" class="medium" tabindex="48" type="file"></div></li><li id="field_3_39" class="gfield"><label class="gfield_label" for="input_3_39">Comments/Notes:</label><div class="ginput_container"><textarea name="input_39" id="input_3_39" class="textarea small" tabindex="49" rows="10" cols="50"></textarea></div><div class="gfield_description">By clicking submit, you are accepting our <a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf">Terms and Conditions</a></div></li><li id="field_3_43" class="gfield               gfield_contains_required" style="display:none;"><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf"><label class="gfield_label">Terms and Conditions<span class="gfield_required">*</span></label><div class="ginput_container"><ul class="gfield_checkbox" id="input_3_43"><li class="gchoice_43_1"><input name="input_43.1" onclick="gf_apply_rules(3,[43,43]);" value="I Agree to the terms and conditions of HELPS International" id="choice_43_1" tabindex="50" type="checkbox"><label for="choice_43_1">I Agree to the terms and conditions of HELPS International</label></li></ul></div></a></li><li id="field_3_43" class="gfield               gfield_contains_required" style="display:none;"><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf"><label class="gfield_label">Terms and Conditions<span class="gfield_required">*</span></label><div class="ginput_container"><ul class="gfield_checkbox" id="input_3_43"><li class="gchoice_43_1"><input name="input_43.1" onclick="gf_apply_rules(3,[43,43]);" value="I Agree to the terms and conditions of HELPS International" id="choice_43_1" tabindex="51" type="checkbox"><label for="choice_43_1">I Agree to the terms and conditions of HELPS International</label></li></ul></div></a></li><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf">
+                            </a></ul></div><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf">
+        <div class="gform_footer top_label"> <input id="gform_submit_button_3" class="button gform_button" value="Submit" tabindex="52" onclick='if(window["gf_submitting_3"]){return false;}  window["gf_submitting_3"]=true; ' type="submit">
+            <input class="gform_hidden" name="is_submit_3" value="1" type="hidden">
+            <input class="gform_hidden" name="gform_submit" value="3" type="hidden">
+            <input class="gform_hidden" name="gform_unique_id" value="" type="hidden">
+            <input class="gform_hidden" name="state_3" value="WyJhOjA6e30iLCIxMTkyMGM0NDRiMmE0NGJmMDAyMjA0NzhmNzEwYWFmOSJd" type="hidden">
+            <input class="gform_hidden" name="gform_target_page_number_3" id="gform_target_page_number_3" value="0" type="hidden">
+            <input class="gform_hidden" name="gform_source_page_number_3" id="gform_source_page_number_3" value="1" type="hidden">
+            <input name="gform_field_values" value="" type="hidden">
+            
+        </div>
+                        
+                        </a></form></div><script type="text/javascript"> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/www.helpsintl.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/www.helpsintl.org\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 3) {if(window['jQuery']){if(!window['gf_form_conditional_logic'])window['gf_form_conditional_logic'] = new Array();window['gf_form_conditional_logic'][3] = {'logic' : {43: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"I Agree to the terms and conditions of HELPS International"}]},"nextButton":null,"section":null},43: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"I Agree to the terms and conditions of HELPS International"}]},"nextButton":null,"section":null} }, 'dependents' : {43: [43],43: [43] }, 'animation' : 0 , 'defaults' : [] }; if(!window['gf_number_format'])window['gf_number_format'] = 'decimal_dot';jQuery(document).ready(function(){gf_apply_rules(3, [43,43], true);jQuery('#gform_wrapper_3').show();jQuery(document).trigger('gform_post_conditional_logic', [3, null, true]);} );} } } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [3, 1]) } ); </script><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf">
+                <small></small>
+				</a></div><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf">
+
+	
+	
+	
+  
+
+	
+</a></div><!-- end main narrow --><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf">
+<div id="sidebar">
+    <ul>
+        <li id="custom_post_widget-26" class="widget sbg_widget AboutUsOverview widget_custom_post_widget"><p style="text-align: center;"><img class="aligncenter  wp-image-3615" alt="volunteer pics" src="HELPS%20app_files/volunteer-pics-300x168.jpg" height="200" width="300"><img class="aligncenter  wp-image-3585" alt="doctor and patient" src="HELPS%20app_files/doctor-and-patient-300x229.jpg" height="210" width="300"><img class="aligncenter  wp-image-3603" alt="stove 3" src="HELPS%20app_files/stove-3-300x167.jpg" height="200" width="300"><img class="aligncenter  wp-image-3573" alt="medical program" src="HELPS%20app_files/medical-program-300x167.jpg" height="220" width="300"></p>
+</li>            
+    </ul>
+    <div class="clear"></div>
+</div><div class="clear"></div>
+
+</a></div><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf"> <!--End PageWrap-->
+
+<div class="clear"></div>
+</a><div id="footer"><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf"> 
+        </a><div id="footerleft"><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf">
+        <h3>Connect</h3>
+        </a><div id="social"><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf">
+</a><ul><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf">
+</a><li><a target="_blank" href="http://www.helpsintl.org/wp-content/uploads/2013/08/TERMS-CONDITIONS-2014.pdf"></a><a class="facebook" href="http://www.facebook.com/pages/HELPS-International/110626759851" title="Connect on Facebook" target="_blank">Facebook</a></li><li><a class="twitter" href="http://twitter.com/HELPS_" title="Follow Us On Twitter" target="_blank">Twitter</a></li>
+</ul> 
+</div>		<div id="text-2" class="widget widget_text">			<div class="textwidget"><img src="HELPS%20app_files/contacticons.gif" align="left"> <strong>1-800-41-HELPS</strong><br>
+<strong>Join Our Mailing List</strong>
+<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post">
+<input name="llr" value="tcxrb7cab" type="hidden">
+<input name="m" value="1102600264787" type="hidden">
+<input name="p" value="oi" type="hidden">
+<font>Email:</font> <input name="ea" size="15" style="width:190px;position:relative;" type="text"><input name="go" value="Go" class="submit" style="padding:6px;position:relative;float:right;" type="submit">
+</form></div>
+		</div>        </div>   
+        <div id="footerright">
+        <h3>Media</h3>
+		<div id="text-3" class="widget widget_text">			<div class="textwidget"><iframe src="HELPS%20app_files/10804799.html" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="200" width="300"></iframe></div>
+		</div>        </div><!--end footerright-->
+                
+        <div id="footercenter">
+        <h3>Latest from HELPS</h3>
+        <ul class="latest">
+        		        <li><a href="http://www.helpsintl.org/news/2014/01/03/memorial-bill-mcconnell/" rel="bookmark" title="Permanent Link to A Tribute to Bill McConnell">A Tribute to Bill McConnell</a></li>
+                <li><a href="http://www.helpsintl.org/news/2013/08/08/amn-selected-by-american-staffing-associal-for-asa-the-care-award-in-recognition-of-their-efforts-with-helps-international/" rel="bookmark" title="Permanent Link to 2013 Care Awards recognize AMN for work with HELPS">2013 Care Awards recognize AMN for work with HELPS</a></li>
+                <li><a href="http://www.helpsintl.org/news/2011/08/03/a-special-surprise-tony-and-carols-story/" rel="bookmark" title="Permanent Link to A Special Surprise: Tony and Carol’s Story">A Special Surprise: Tony and Carol’s Story</a></li>
+                <li><a href="http://www.helpsintl.org/news/2011/06/21/news-without-the-blues-video-report/" rel="bookmark" title="Permanent Link to News Without the Blues Video Report">News Without the Blues Video Report</a></li>
+                        </ul>
+                        <div class="clear"></div>   
+       
+<div class="clear"></div>        
+
+
+</div><!--end footer -->
+</div> <!--End Page-->
+ <div id="footermenu">© 2014 Helps International <ul id="menu-footer-menu" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8"><a href="http://www.helpsintl.org/">Home</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://www.helpsintl.org/about-us/">About Us</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://www.helpsintl.org/programs/">Programs</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.helpsintl.org/get-involved/">Get Involved</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.helpsintl.org/events/">Events</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.helpsintl.org/about-us/contact/">Contact Us</a></li>
+<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="http://www.helpsintl.org/news-and-media/">News/Media</a></li>
+</ul>  Site by <a href="http://fourtencreative.com/" rel="nofollow" target="_blank">410</a></div>
+			<script type="text/javascript">
+				(function($){
+					$(function(){
+						$("img.flickr.square,img.flickr.thumbnail,img.flickr.small").flightbox({size_callback: get_sizes});
+					});
+				})(jQuery);
+			</script>
+		<!-- Lightbox Plus ColorBox v2.6/1.3.32 - 2013.01.24 - Message: 1-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $(".photo").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});
+  $(".lbpModal").colorbox({innerWidth:"80%",innerHeight:"80%",initialHeight:"300",opacity:0.8,iframe:true});
+});
+</script>
+<script type="text/javascript" src="HELPS%20app_files/jquery_009.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/jquery_006.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/jquery_007.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/jquery.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/datepicker.js"></script>
+<script type="text/javascript" src="HELPS%20app_files/jquery_003.js"></script>
+</div><!-- end outer -->
+
+</div><div style="display: none;" id="cboxOverlay"></div><div style="display: none;" class="" id="colorbox"><div id="cboxWrapper"><div><div style="float: left;" id="cboxTopLeft"></div><div style="float: left;" id="cboxTopCenter"></div><div style="float: left;" id="cboxTopRight"></div></div><div style="clear: left;"><div style="float: left;" id="cboxMiddleLeft"></div><div style="float: left;" id="cboxContent"><div style="float: left;" id="cboxTitle"></div><div style="float: left;" id="cboxCurrent"></div><div style="float: left;" id="cboxNext"></div><div style="float: left;" id="cboxPrevious"></div><div style="float: left;" id="cboxSlideshow"></div><div style="float: left;" id="cboxClose"></div></div><div style="float: left;" id="cboxMiddleRight"></div></div><div style="clear: left;"><div style="float: left;" id="cboxBottomLeft"></div><div style="float: left;" id="cboxBottomCenter"></div><div style="float: left;" id="cboxBottomRight"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><div style="position: absolute; top: 1075.25px; left: 420px; z-index: 3; display: none;" id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"><div class="ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all"><a class="ui-datepicker-prev ui-corner-all" data-handler="prev" data-event="click" title="Prev"><span class="ui-icon ui-icon-circle-triangle-w">Prev</span></a><a class="ui-datepicker-next ui-corner-all" data-handler="next" data-event="click" title="Next"><span class="ui-icon ui-icon-circle-triangle-e">Next</span></a><div class="ui-datepicker-title"><select class="ui-datepicker-month" data-handler="selectMonth" data-event="change"><option value="0" selected="selected">Jan</option><option value="1">Feb</option><option value="2">Mar</option><option value="3">Apr</option><option value="4">May</option><option value="5">Jun</option><option value="6">Jul</option><option value="7">Aug</option><option value="8">Sep</option><option value="9">Oct</option><option value="10">Nov</option><option value="11">Dec</option></select><select class="ui-datepicker-year" data-handler="selectYear" data-event="change"><option value="1914">1914</option><option value="1915">1915</option><option value="1916">1916</option><option value="1917">1917</option><option value="1918">1918</option><option value="1919">1919</option><option value="1920">1920</option><option value="1921">1921</option><option value="1922">1922</option><option value="1923">1923</option><option value="1924">1924</option><option value="1925">1925</option><option value="1926">1926</option><option value="1927">1927</option><option value="1928">1928</option><option value="1929">1929</option><option value="1930">1930</option><option value="1931">1931</option><option value="1932">1932</option><option value="1933">1933</option><option value="1934">1934</option><option value="1935">1935</option><option value="1936">1936</option><option value="1937">1937</option><option value="1938">1938</option><option value="1939">1939</option><option value="1940">1940</option><option value="1941">1941</option><option value="1942">1942</option><option value="1943">1943</option><option value="1944">1944</option><option value="1945">1945</option><option value="1946">1946</option><option value="1947">1947</option><option value="1948">1948</option><option value="1949">1949</option><option value="1950">1950</option><option value="1951">1951</option><option value="1952">1952</option><option value="1953">1953</option><option value="1954">1954</option><option value="1955">1955</option><option value="1956">1956</option><option value="1957">1957</option><option value="1958">1958</option><option value="1959">1959</option><option value="1960">1960</option><option value="1961">1961</option><option value="1962">1962</option><option value="1963">1963</option><option value="1964">1964</option><option value="1965">1965</option><option value="1966">1966</option><option value="1967">1967</option><option value="1968">1968</option><option value="1969">1969</option><option value="1970">1970</option><option value="1971">1971</option><option value="1972">1972</option><option value="1973">1973</option><option value="1974">1974</option><option value="1975">1975</option><option value="1976">1976</option><option value="1977">1977</option><option value="1978">1978</option><option value="1979">1979</option><option value="1980">1980</option><option value="1981">1981</option><option value="1982">1982</option><option value="1983">1983</option><option value="1984">1984</option><option value="1985">1985</option><option value="1986">1986</option><option value="1987">1987</option><option value="1988">1988</option><option value="1989">1989</option><option value="1990">1990</option><option value="1991">1991</option><option value="1992">1992</option><option value="1993">1993</option><option value="1994">1994</option><option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018" selected="selected">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option><option value="2023">2023</option><option value="2024">2024</option><option value="2025">2025</option><option value="2026">2026</option><option value="2027">2027</option><option value="2028">2028</option><option value="2029">2029</option><option value="2030">2030</option><option value="2031">2031</option><option value="2032">2032</option><option value="2033">2033</option><option value="2034">2034</option></select></div></div><table class="ui-datepicker-calendar"><thead><tr><th class="ui-datepicker-week-end"><span title="Sunday">Su</span></th><th><span title="Monday">Mo</span></th><th><span title="Tuesday">Tu</span></th><th><span title="Wednesday">We</span></th><th><span title="Thursday">Th</span></th><th><span title="Friday">Fr</span></th><th class="ui-datepicker-week-end"><span title="Saturday">Sa</span></th></tr></thead><tbody><tr><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">1</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">2</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">3</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">4</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">5</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">6</a></td></tr><tr><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">7</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">8</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">9</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">10</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">11</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">12</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">13</a></td></tr><tr><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">14</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">15</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">16</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">17</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">18</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">19</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">20</a></td></tr><tr><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">21</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">22</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">23</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">24</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">25</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">26</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">27</a></td></tr><tr><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">28</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">29</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">30</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="0" data-year="2018"><a class="ui-state-default" href="#">31</a></td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td></tr></tbody></table></div><div style="display: none;" id="cboxOverlay"></div><div style="display: none;" class="" id="colorbox"><div id="cboxWrapper"><div><div style="float: left;" id="cboxTopLeft"></div><div style="float: left;" id="cboxTopCenter"></div><div style="float: left;" id="cboxTopRight"></div></div><div style="clear: left;"><div style="float: left;" id="cboxMiddleLeft"></div><div style="float: left;" id="cboxContent"><div style="float: left;" id="cboxTitle"></div><div style="float: left;" id="cboxCurrent"></div><div style="float: left;" id="cboxNext"></div><div style="float: left;" id="cboxPrevious"></div><div style="float: left;" id="cboxSlideshow"></div><div style="float: left;" id="cboxClose"></div></div><div style="float: left;" id="cboxMiddleRight"></div></div><div style="clear: left;"><div style="float: left;" id="cboxBottomLeft"></div><div style="float: left;" id="cboxBottomCenter"></div><div style="float: left;" id="cboxBottomRight"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
